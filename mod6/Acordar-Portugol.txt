@@ -1,0 +1,14 @@
+
+1. Ouvir o despertador tocando
+2. Desligar despertador e abrir os olhos
+3. Levantar da cama
+4. Ir ate o banheiro
+5. Abrir a torneira
+6. Lavar o rosto
+7. Fechar torneira
+8. Pegar escova de dentes
+9. Pegar pasta de dentes
+10. Colocar a pasta na escova e fechar a pasta
+11. Pegar a escova de dentes e escovar os dentes
+12. Abrir torneira e enxaguar a boca.
+13. Fechar torneira. 
